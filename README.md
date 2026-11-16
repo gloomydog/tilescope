@@ -4,6 +4,8 @@ A fast, WizTree-style treemap viewer for Linux that lets you zoom from a whole d
 
 Built with Rust, egui and wgpu.
 
+https://github.com/user-attachments/assets/0d56af45-b604-49a1-9785-8ddb925999b3
+
 ## Features
 
 - **Squarified treemap** of any directory. Tiles can be sized by bytes, by lines or all equal.
