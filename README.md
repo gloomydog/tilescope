@@ -6,7 +6,7 @@ Built with Rust, egui and wgpu.
 ![image](https://github.com/user-attachments/assets/8c7e237e-9340-400a-8c49-f80084fa238b)
 
 ## Demonstration
-![mp4](https://github.com/user-attachments/assets/0d56af45-b604-49a1-9785-8ddb925999b3)
+https://github.com/user-attachments/assets/0d56af45-b604-49a1-9785-8ddb925999b3
 
 ## Features
 
