@@ -3,8 +3,10 @@
 A fast, WizTree-style treemap viewer for Linux that lets you zoom from a whole directory tree down to readable source code.
 
 Built with Rust, egui and wgpu.
+![image](https://github.com/user-attachments/assets/8c7e237e-9340-400a-8c49-f80084fa238b)
 
-https://github.com/user-attachments/assets/0d56af45-b604-49a1-9785-8ddb925999b3
+## Demonstration
+![mp4](https://github.com/user-attachments/assets/0d56af45-b604-49a1-9785-8ddb925999b3)
 
 ## Features
 
